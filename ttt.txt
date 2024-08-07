@@ -1,2 +1,6 @@
 ttt
-kkiyathou Revert!!
+<<<<<<< HEAD
+kkiyathou
+=======
+kkiyathou
+>>>>>>> parent of ea0d0e0 (before revert)
